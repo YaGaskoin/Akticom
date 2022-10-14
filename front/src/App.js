@@ -1,6 +1,6 @@
 import './App.scss';
 import React, {useEffect, useState} from "react";
-import {BrowserRouter, NavLink, Route, Routes, Link} from "react-router-dom";
+import {BrowserRouter,HashRouter, NavLink, Route, Routes, Link} from "react-router-dom";
 import {UserOutlined, UnorderedListOutlined, DownloadOutlined } from '@ant-design/icons';
 import {Layout, Menu} from "antd";
 import Preloader from "./components/common/Preloader/Preloader";
@@ -43,7 +43,8 @@ function App(props) {
                             {
                                 <React.Fragment>
                                     <Menu.Item>
-                                        <a href={'http://127.0.0.1:8000/admin'}>
+                                        <a href={'https://gaskoin.pythonanywhere.com/admin'}>
+
                                                 <UserOutlined/> Авторизация
                                             </a>
                                     </Menu.Item>
@@ -79,9 +80,9 @@ function App(props) {
 
 function ArktikApp() {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <App/>
-        </BrowserRouter>
+        </HashRouter>
     )
 }
 

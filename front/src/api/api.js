@@ -1,6 +1,6 @@
 import * as axios from 'axios';
 
-const baseUrl = 'http://127.0.0.1:8000'
+const baseUrl = 'https://gaskoin.pythonanywhere.com/'
 
 const instance = axios.default.create({
     baseURL: baseUrl,

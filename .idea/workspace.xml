@@ -37,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Program Files (x86)/projects/akticom",
+    "last_opened_file_path": "C:/Program Files (x86)/projects/djangoProject1/backend/djangoProject1/settings.py",
     "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,7 +95,8 @@
       <workItem from="1665592697640" duration="7233000" />
       <workItem from="1665662356258" duration="12148000" />
       <workItem from="1665681903866" duration="1801000" />
-      <workItem from="1665728862454" duration="291000" />
+      <workItem from="1665728862454" duration="1568000" />
+      <workItem from="1665737178558" duration="3115000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1665592769325</created>
