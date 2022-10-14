@@ -45,7 +45,7 @@ function App(props) {
                                     <Menu.Item>
                                         <a href={'https://gaskoin.pythonanywhere.com/admin'}>
 
-                                                <UserOutlined/> Авторизация
+                                                <UserOutlined/> Админ. панель
                                             </a>
                                     </Menu.Item>
                                     <Menu.Item>
