@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Akticom/static/css/main.bfd98ed2.css",
+    "main.js": "/Akticom/static/js/main.770eff73.js",
+    "static/js/787.88ca2b90.chunk.js": "/Akticom/static/js/787.88ca2b90.chunk.js",
+    "index.html": "/Akticom/index.html",
+    "static/media/ring.svg": "/Akticom/static/media/ring.e1da6c776e0aca8617a2587f787908aa.svg",
+    "main.bfd98ed2.css.map": "/Akticom/static/css/main.bfd98ed2.css.map",
+    "main.770eff73.js.map": "/Akticom/static/js/main.770eff73.js.map",
+    "787.88ca2b90.chunk.js.map": "/Akticom/static/js/787.88ca2b90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfd98ed2.css",
+    "static/js/main.770eff73.js"
+  ]
+}
